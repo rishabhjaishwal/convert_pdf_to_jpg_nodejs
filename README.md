@@ -8,6 +8,12 @@ Script can be used to convert pdf into image jpeg (required ImageMagick-6)
 - create "**input**" named folder where script pdf_to_jpg.js is available
 - put all your pdf files in "**input**" folder
 
+```
+// folder structure
+├── input/
+└── pdf_to_jpg.js
+```
+
 ## default command
 ```
   node pdf_to_jpg.js
